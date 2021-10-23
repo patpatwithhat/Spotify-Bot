@@ -1,0 +1,15 @@
+{
+  "name": "spotify-bot",
+  "version": "1.0.0",
+  "description": "This is a sample project showing how to use puppeteer with spotify web player, to create a looped playlist.",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
